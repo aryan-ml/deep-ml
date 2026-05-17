@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:55:23.299Z",
+  "generated_at": "2026-09-15T16:55:25.269Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,32 @@
       "last_pushed_at": "2026-05-16T10:57:54.659Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-05-17T10:10:01.632Z",
+      "last_pushed_at": "2026-05-17T10:10:01.632Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-05-17T10:37:47.607Z",
+      "last_pushed_at": "2026-05-17T10:37:47.607Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
