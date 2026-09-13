@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:55:38.526Z",
+  "generated_at": "2026-09-15T16:55:40.337Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -221,6 +221,45 @@
       "last_pushed_at": "2026-05-31T07:29:28.198Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-13T04:15:52.147Z",
+      "last_pushed_at": "2026-09-13T04:15:52.147Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-09-13T08:56:12.717Z",
+      "last_pushed_at": "2026-09-13T08:56:12.717Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-13T09:20:36.869Z",
+      "last_pushed_at": "2026-09-13T09:20:36.869Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
