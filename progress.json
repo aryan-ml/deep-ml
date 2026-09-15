@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:55:42.275Z",
+  "generated_at": "2026-09-15T16:55:43.935Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,136 @@
       "last_pushed_at": "2026-09-14T17:32:30.635Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-15T04:15:33.320Z",
+      "last_pushed_at": "2026-09-15T04:15:33.320Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-15T12:05:18.888Z",
+      "last_pushed_at": "2026-09-15T12:05:18.888Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-09-15T14:10:43.589Z",
+      "last_pushed_at": "2026-09-15T14:10:43.589Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1221": {
+      "kind": "problem",
+      "id": "1221",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1221",
+      "path": "problems/1221-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-09-15T14:24:51.713Z",
+      "last_pushed_at": "2026-09-15T14:24:51.713Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1222": {
+      "kind": "problem",
+      "id": "1222",
+      "title": "Gradient of a Square with Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1222",
+      "path": "problems/1222-gradient-of-a-square-with-autograd",
+      "first_solved_at": "2026-09-15T14:32:48.436Z",
+      "last_pushed_at": "2026-09-15T14:32:48.436Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:1223": {
+      "kind": "problem",
+      "id": "1223",
+      "title": "Gradient of a Weighted Sum of Squares",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1223",
+      "path": "problems/1223-gradient-of-a-weighted-sum-of-squares",
+      "first_solved_at": "2026-09-15T16:25:11.692Z",
+      "last_pushed_at": "2026-09-15T16:25:11.692Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-09-15T16:43:13.171Z",
+      "last_pushed_at": "2026-09-15T16:43:13.171Z",
+      "language": "sql",
+      "lines": 3
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-09-15T16:44:18.492Z",
+      "last_pushed_at": "2026-09-15T16:44:18.492Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1103": {
+      "kind": "problem",
+      "id": "1103",
+      "title": "Filter rows with WHERE",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1103",
+      "path": "problems/1103-filter-rows-with-where",
+      "first_solved_at": "2026-09-15T16:45:26.210Z",
+      "last_pushed_at": "2026-09-15T16:45:26.210Z",
+      "language": "sql",
+      "lines": 5
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-09-15T16:47:35.734Z",
+      "last_pushed_at": "2026-09-15T16:47:35.734Z",
+      "language": "sql",
+      "lines": 5
     }
   }
 }
