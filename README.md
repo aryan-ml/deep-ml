@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 31 problems · 0 labs · 0 math
+**43** solved · 31 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,23 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-09-15 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-18 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-23 | [solution](problems/0007-matrix-transformation) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-15 | [solution](math/0001-derivatives-and-gradients) |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-15 | [solution](math/0018-descriptive-statistics) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-15 | [solution](math/0005-gradient-descent-updates) |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-15 | [solution](math/0009-matrix-basics) |
+| [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-15 | [solution](math/0019-probability-fundamentals) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-15 | [solution](math/0007-vector-operations) |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-15 | [solution](math/0020-bayes-theorem) |
+| [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-15 | [solution](math/0011-determinants-and-trace) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-15 | [solution](math/0012-inverse-and-rank) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-15 | [solution](math/0010-matrix-multiplication) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-15 | [solution](math/0008-vector-norms-and-linear-independence) |
+| [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-15 | [solution](math/0028-bayesian-methods) |
 
 ---
 
