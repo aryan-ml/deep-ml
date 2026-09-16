@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:55:46.261Z",
+  "generated_at": "2026-09-16T15:15:23.230Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -535,6 +535,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-15T16:55:46.260Z",
       "last_pushed_at": "2026-09-15T16:55:46.260Z"
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-16T15:15:22.399Z",
+      "last_pushed_at": "2026-09-16T15:15:22.399Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
