@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:21:32.834Z",
+  "generated_at": "2026-09-21T14:23:17.173Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -652,6 +652,19 @@
       "last_pushed_at": "2026-09-21T14:21:31.308Z",
       "language": "sql",
       "lines": 7
+    },
+    "problem:1107": {
+      "kind": "problem",
+      "id": "1107",
+      "title": "Count rows per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1107",
+      "path": "problems/1107-count-rows-per-group",
+      "first_solved_at": "2026-09-21T14:23:16.120Z",
+      "last_pushed_at": "2026-09-21T14:23:16.120Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }

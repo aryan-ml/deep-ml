@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 40 problems · 0 labs · 12 math
+**53** solved · 41 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-19 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-05-21 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-09-18 | [solution](problems/1232-conv2d-output-shape) |
+| [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-21 | [solution](problems/1107-count-rows-per-group) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-16 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-09-15 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-05-18 | [solution](problems/0083-dot-product-calculator) |
