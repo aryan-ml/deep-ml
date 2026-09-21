@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:19:00.676Z",
+  "generated_at": "2026-09-21T14:21:32.834Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -639,6 +639,19 @@
       "last_pushed_at": "2026-09-21T14:18:59.814Z",
       "language": "sql",
       "lines": 3
+    },
+    "problem:1106": {
+      "kind": "problem",
+      "id": "1106",
+      "title": "Top N with LIMIT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1106",
+      "path": "problems/1106-top-n-with-limit",
+      "first_solved_at": "2026-09-21T14:21:31.308Z",
+      "last_pushed_at": "2026-09-21T14:21:31.308Z",
+      "language": "sql",
+      "lines": 7
     }
   }
 }
