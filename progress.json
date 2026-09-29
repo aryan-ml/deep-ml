@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:20:51.967Z",
+  "generated_at": "2026-09-29T17:28:45.942Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -754,6 +754,19 @@
       "path": "problems/0887-build-an-mlp-with-nn-sequential",
       "first_solved_at": "2026-09-28T16:20:51.236Z",
       "last_pushed_at": "2026-09-28T16:20:51.236Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:898": {
+      "kind": "problem",
+      "id": "898",
+      "title": "Backprop a Linear Layer by Hand",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/898",
+      "path": "problems/0898-backprop-a-linear-layer-by-hand",
+      "first_solved_at": "2026-09-29T17:28:44.672Z",
+      "last_pushed_at": "2026-09-29T17:28:44.672Z",
       "language": "python",
       "lines": 10
     }
