@@ -18,4 +18,6 @@ def two_layer_mlp_forward(x, w1, b1, w2, b2):
     one = x @ w1 + b1
     one = one.relu()
     two = one @ w2.T + b2
-    return two.relu().item()
+    return two.item()
+
+    
