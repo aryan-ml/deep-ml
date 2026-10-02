@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 49 problems · 1 labs · 12 math
+**63** solved · 50 problems · 1 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-09-15 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-18 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-23 | [solution](problems/0007-matrix-transformation) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-02 | [solution](problems/1227-numerically-stable-softmax) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-30 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Labs
