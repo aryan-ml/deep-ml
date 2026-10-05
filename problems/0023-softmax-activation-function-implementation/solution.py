@@ -1,14 +1,11 @@
-import torch
-import torch.nn.functional as F
+import math
+import numpy as np
 
 def softmax(scores: list[float]) -> list[float]:
-    """
-    Compute the softmax activation function using PyTorch's built-in API.
-    Input:
-      - scores: list of floats (logits)
-    Returns:
-      - list of floats representing the softmax probabilities.
-    """
-    # Your implementation here
-    scoress = torch.tensor(scores, dtype = torch.float32)
-    return F.softmax(scoress).tolist()
+    x = np.array(scores, dtype=np.float32)
+    maxx = np.max(x)
+
+    return np.exp(x - maxx) / np.sum(np.exp(x - maxx)).tolist()
+
+
+    
