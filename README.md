@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 54 problems · 1 labs · 12 math
+**68** solved · 55 problems · 1 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-18 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-23 | [solution](problems/0007-matrix-transformation) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-02 | [solution](problems/1227-numerically-stable-softmax) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-25 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-30 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Labs
