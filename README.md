@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 55 problems · 1 labs · 12 math
+**69** solved · 55 problems · 1 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-15 | [solution](math/0018-descriptive-statistics) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-15 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-15 | [solution](math/0009-matrix-basics) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-25 | [solution](math/0030-ml-workflow-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-15 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-15 | [solution](math/0007-vector-operations) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-09-15 | [solution](math/0020-bayes-theorem) |
